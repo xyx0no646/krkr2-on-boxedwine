@@ -21,3 +21,7 @@ https://www.winehq.org/
 吉里吉里に関わってきたすべての皆様に深く感謝いたします。
 
 ### 立ち絵について
+立ち絵作者：ナモー <br>
+https://twitter.com/namorton09 <br>
+<br>
+立ち絵の利用許諾はKAGのライセンスに準じます。<br>　
