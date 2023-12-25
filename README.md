@@ -22,5 +22,5 @@ https://www.winehq.org/
 
 ### 立ち絵について
 
-立ち絵作者：ナモー <br> https://twitter.com/namorton09 <br>
+立ち絵作者：匿名お絵描きマンN <br> https://twitter.com/namorton09 <br>
 <br> 立ち絵の利用許諾はKAGのライセンスに準じます。<br>
