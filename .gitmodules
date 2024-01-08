@@ -1,0 +1,3 @@
+[submodule "Boxedwine"]
+	path = Boxedwine
+	url = https://github.com/danoon2/Boxedwine.git
